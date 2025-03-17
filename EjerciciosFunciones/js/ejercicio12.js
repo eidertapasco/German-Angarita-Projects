@@ -5,15 +5,16 @@ aprobada el promedio del estudiante debe ser mayor o igual a 3,0.*/
 function aproboEstudiante(calificaciones){
     let aprobo = 0;
     let acumulado = 0;
+    let acumuladoNotas = 0;
     for(let i = 0; i < calificaciones.length; i++){
-        acumulado += i;
+        acumulado += calificaciones[i];
+        acumuladoNotas += 1;
     };
-    aprobo = (acumulado/calificaciones.length);
+    aprobo = (acumulado/acumuladoNotas);
     if(aprobo >= 3.0){
-        return ('APROBO');
-    }else{
-        return ('NO APROBO');
-    };
+        return (`APROBO CON: ${aprobo}`);
+    }
+    return (`NO APROBO CON: ${aprobo}`);
 };
 
 let notas = [];
@@ -26,4 +27,4 @@ do {
     numNota += 1;
 } while (numNota <= 5);
 
-console.log(aproboEstudiante(notas))
+alert(aproboEstudiante(notas))
