@@ -1,0 +1,20 @@
+Realice los siguientes problemas haciendo primero el análisis respectivo. Los problemas deben
+ser presentados en un repositorio de GitHub:
+
+SECCIÓN 1
+1. Cree un programa que lea la edad de un usuario e imprima un mensaje que diga si el usuario es mayor de
+edad o no.
+2. En un supermercado se tiene los siguientes productos: lentejas, crema, arroz y vino. Las lentejas y el arroz no
+pagan IVA, el vino y la crema si. Cree un programa que reciba el nombre de alguno de los productos
+mencionados y muestre si el producto paga IVA o no. Realice una versión con condicionales y otra con estructura
+switch-case.
+3. Cree un programa que reciba dos números y muestre el mayor. En caso de que los números sean iguales
+también se debe mostrar al usuario.
+4. Cree un programa que lea los tres ángulos internos de un triángulo y muestre si los ángulos corresponden a un
+triángulo o no. Realice una versión con condicionales y otra con estructura switch-case.
+5. Cree un programa que lea un número y muestre si este es par o impar. Realice una versión con condicionales
+y otra con estructura switch-case.
+6. Cree un programa que lea un número y muestre si este es divisible entre cinco o no. Realice una versión con
+condicionales y otra con estructura switch-case.
+7. Cree un programa que lea un número entre 1 y 15 y muestre si éste es primo o no. Realice una versión con
+condicionales y otra con estructura switch-case.

@@ -1,0 +1,55 @@
+TALLER EVALUATIVO LÓGICA CON JAVASCRIPT
+
+1. Dada el siguiente algoritmo:
+let edad = 21;
+if (edad == 15){
+ console.log("Tiene 15");
+}
+if (edad == 20){
+ console.log("Tiene 20");
+}
+if (edad == 30){
+ console.log("Tiene 30");
+}
+if (edad != 15 && edad != 20 && edad != 30){
+ console.log("Introduzca una edad válida");
+}
+realice el mismo algoritmo usando otra estructura de control más conveniente.
+
+2. Cree una función que reciba como argumentos dos números y retorne el mayor de estos números,
+luego haga el llamado a la función y guarde su valor de retorno en una variable e imprima ese valor por
+consola.
+
+3. Dado el siguiente arreglo:
+let arreglo = [1,2,3,4,5,6,7,8,9,10];
+a) Usando ciclo for recorra el arreglo imprimiendo cada uno de sus elementos.
+b) Usando forEach recorra el arreglo imprimiendo cada uno de sus elementos.
+
+4. Dado el siguiente arreglo:
+let arreglo = [ [1,2,3], [4,5,6,7,8,9], [10] ];
+a) Use ciclos for para recorrer cada elemento interno del arreglo e imprimirlo
+
+5. Dado el siguiente diccionario:
+let persona = {edad: 20, peso: 75, nombres: "Pedro", apellidos: "Pérez Pérez"};
+Usando for in itere sobre las claves del objeto imprimiendo sus respectivos valores.
+Cambie el valor de la clave peso por 77 usando forma 1 (arreglo.clave)
+Cambie el valor de la clave edad por 21 usando forma 2 (diccionario[clave])
+Elimine la clave apellidos
+
+6. Dado el siguiente arreglo [ “Colombia”, “es”, “un”, “país”, “extraordinario” ], imprima en consola el
+mensaje “Colombia es un país extraordinario” usando el método join.
+
+7. Dada la siguiente cadena “Programar es algo genial, todos deberían intentarlo, atrévete!” genere el
+siguiente arreglo [“Programar es algo genial”, “todos deberían intentarlo”, “atrévete!”] usando el método
+split.
+
+8. Dado el siguiente arreglo [1, 2, 3, 4, 500, 420, -100] elimine el elemento de índice 4 usando splice,
+elimine el último elemento usando pop, agregue el elemento 520 usando push. Finalmente, haga una
+copia “independiente del arreglo” usando slice
+
+9. En una empresa 
+se requiere un sistema de información que registre sus nuevos usuarios. Cada vez
+que un usuario se registra debe introducir los siguientes datos: documento, nombres, apellidos, edad,
+peso, estatura. Cree un sistema de información que reciba los datos de registro de cada cliente por
+teclado, luego de realizado el registro el sistema debe mostrar al usuario el mensaje “Registro exitoso”. Si
+el usuario desea consultar su registro debe poder hacerlo a través de su documento. Use funciones.

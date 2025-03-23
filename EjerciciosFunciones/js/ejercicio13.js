@@ -1,21 +1,20 @@
 /*13. Escriba una función que reciba un número entero y dicha función pueda determinar
 si el número enviado es positivo o negativo.*/
 
-
 function esNumero(numero){
-    if (numero > 0){
-        return(`El numero ${numero} es Positivo.`);
+    if(numero > 0){
+        console.log(`El numero ${numero} es positivo.`);
     }else if(numero < 0){
-        return(`El numero ${numero} es Negativo.`);
+        console.log(`El numero ${numero} es negativo.`);
     }else{
-        return(`El numero es cero ${numero}.`);
+        console.log(`El numero ${numero} es neutro.`);
     };
 };
 
-let numPrueba = 23;
-let numPrueba2 = -23;
-let numPrueba3 = 0;
+let prueba1 = 0;
+let prueba2 = 8;
+let prueba3 = -6;
 
-console.log(esNumero(numPrueba));
-console.log(esNumero(numPrueba2));
-console.log(esNumero(numPrueba3));
+esNumero(prueba1);
+esNumero(prueba2);
+esNumero(prueba3);

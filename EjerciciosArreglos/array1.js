@@ -15,3 +15,13 @@ console.log('--------- arrays Multidimensionales-----------');
 let arregloMultidimensional = [ [['a','b','c','d'], [true, false, true]], [[1, 2, 3, 4, 5], [true]] ];
 console.log(arregloMultidimensional[1][0][1]);
 console.log(arregloMultidimensional[0][0][1]);
+
+console.log('--------- Escritura y eliminacion de arreglos-----------');
+let arregloDimension3 = [ [[1, 5, 8], [true]], [[true, false, true], [true]] ];
+//ESCRITURA
+arregloDimension3[1][0][2] = false;
+console.log(arregloDimension3[1][0][2])//imprime: false
+//ELIMINACIÓN
+arregloDimension3[0][0].splice(1, 1);
+console.log(arregloDimension3);//imprime: [ [ [ 1, 8 ], [ true ] ], [ [ true, false, false
+//], [ true ] ] ]

@@ -3,6 +3,3 @@ dicha función recibe la edad, estatura y permiso parental como parámetros. Par
 permitir el acceso el usuario deberá de ser mayor de edad y medir más de 150 cm,
 en caso de ser menor de edad debe contar con un permiso parental para que sea
 concedido el acceso.*/
-
-/* working directory: su directorio de trabajo*/
-/* git cmd o powershell

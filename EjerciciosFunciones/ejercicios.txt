@@ -1,6 +1,36 @@
+Realice los siguientes problemas haciendo primero el análisis respectivo. Los
+problemas deben ser presentados en un repositorio de GitHub:
 
-
-
+1. Escriba una función que tenga cómo parámetros la base y altura de un rectángulo y
+retorne su área.
+2. Escriba una función que reciba el lado de un cubo y retorne su volumen.
+3. Escriba una función que tenga como parámetro un nombre y retorne la cadena “Hola
+Juan”, por ejemplo si el nombre pasado es Juan.
+4. Escriba una función que muestre los números de 1 a n, teniendo n como parámetro.
+5. Escriba una función que reciba un número n como parámetro y genere su factorial.
+6. Escriba una función con el nombre de esVocal() que tome un carácter , devuelva
+True si es vocal (no importa si es mayúscula o minúscula), y devuelva False en caso
+contrario.
+7. Escriba una función la cual reciba como parámetro una cadena y genere como
+retorno la misma cadena pero con todos su contenido en mayúscula.
+8. Escriba una función llamada obtenerPrimeraLetra() que reciba un nombre y devuelva
+la primera letra del nombre.
+9. Escriba una función la cual reciba una cadena como parámetro y retorne la cantidad
+de vocales que contiene la cadena.
+10. Escriba una función la cual reciba una cadena como parámetro y ésta retorne la
+misma cadena pero sin sus vocales.
+11. Escriba una función que al llamarla retorne un número entero aleatorio entre 1 y 20.
+12. Escriba una función la cual reciba 5 notas de un estudiante y genere un mensaje
+informando si el estudiante aprobó o no la materia, para que la materia se de como
+aprobada el promedio del estudiante debe ser mayor o igual a 3,0.
+13. Escriba una función que reciba un número entero y dicha función pueda determinar
+si el número enviado es positivo o negativo.
+14. Escriba una función la cual permita o no la entrada a un parque de atracciones,
+dicha función recibe la edad, estatura y permiso parental como parámetros. Para
+permitir el acceso el usuario deberá de ser mayor de edad y medir más de 150 cm,
+en caso de ser menor de edad debe contar con un permiso parental para que sea
+concedido el acceso.
+>>>>>>> 53b6950 (Reorganización de archivos y eliminación de archivos innecesarios)
 15. Escriba una función generarContraseña la cual reciba n como parámetro y esta cree
 una contraseña de n caracteres aleatorios. (Los caracteres pueden ser números,
 letras o signos).

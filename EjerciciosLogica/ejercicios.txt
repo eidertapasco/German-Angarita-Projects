@@ -1,0 +1,46 @@
+Realice los siguientes problemas haciendo primero el análisis respectivo. Los problemas deben
+ser presentados en un repositorio de GitHub:
+
+1. Cree un programa que lea la edad de un usuario y muestre cuántos años tendrá el usuario
+dentro de tantos años como éste indique. Por ejemplo, si el usuario tiene 20 años y quiere saber
+cuántos años tendrá dentro de 15 años, el programa deberá mostrar que tendrá 35 años.
+
+2. Cree un programa que lea dos números y muestre su producto, su módulo, su cociente, su
+suma y su resta.
+
+3. En un almacén de electrodomésticos se venden éstos a crédito y de contado. Si el cliente
+compra a crédito, el valor del electrodoméstico aumenta en un 5% por cada mes que dure el
+crédito. Cree un programa para un almacén donde el administrador ingrese el precio de un
+electrodoméstico y el plazo en meses para pagarlo a crédito y muestre el valor fijo de las cuotas
+mensuales que deberá pagar por el electrodoméstico.
+
+4. Cree un programa que tome la base y la altura de un triángulo e imprima su área.
+
+5. Cree un programa que tome el radio de un círculo e imprima su área y perímetro.
+
+6. Cree un programa que tome el lado de un cubo e imprima su volumen.
+
+7. Cree un programa que tome el precio de un producto e imprima su precio final al consumidor
+con un IVA de 19%.
+
+8. Cree un programa que tome el valor de un producto e imprima su precio final si éste tiene
+siempre un descuento del 10%.
+
+9. Cree un programa que lea una cantidad e imprima un porcentaje a calcular requerido sobre
+esa cantidad.
+
+10. Cree un programa que tome un número real e imprima su valor absoluto.
+
+11. Cree un programa que simule el lanzamiento de dos dados y muestre la suma de los
+resultados
+
+12. Cree un programa que realice la conversión de grados Celsius a Fahrenheit
+
+13. Cree un programa que calcule el factorial de 5
+
+14. Cree un programa que genere un número aleatorio dentro de un rango específico.
+
+15. Cree un programa que calcule horas y minutos a partir de segundos.
+
+16. Cree un programa que dados a, b y c, use la fórmula general para resolver la ecuación
+cuadrática correspondiente.

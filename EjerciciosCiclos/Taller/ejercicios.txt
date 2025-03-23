@@ -1,0 +1,11 @@
+1.Dada la cadena “Javascript es un buen lenguaje”:
+a) Leer e imprimir los elementos de índices 3, 6, 8
+b) Recorra la cadena usando ciclo for
+
+2.Dada la cadena “Somos Sena”:
+c) Recorra la cadena usando ciclo for y muestre si la cadena contiene la letra “S”
+d) Recorra la cadena usando ciclo for y muestre cuántas veces está la letra “o” . Como sugerencia use una
+variable contadora para contar el número de veces que se encuentra la letra “o”.
+
+3.Dada la cadena “Javascript es genial” recorra la cadena usando ciclo for y muestre por cuantas palabras está
+compuesta la cadena. Como sugerencia se puede basar en el modelo del ejercicio 2 literal d.
