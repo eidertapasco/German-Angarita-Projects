@@ -30,7 +30,7 @@ dicha función recibe la edad, estatura y permiso parental como parámetros. Par
 permitir el acceso el usuario deberá de ser mayor de edad y medir más de 150 cm,
 en caso de ser menor de edad debe contar con un permiso parental para que sea
 concedido el acceso.
->>>>>>> 53b6950 (Reorganización de archivos y eliminación de archivos innecesarios)
+
 15. Escriba una función generarContraseña la cual reciba n como parámetro y esta cree
 una contraseña de n caracteres aleatorios. (Los caracteres pueden ser números,
 letras o signos).
@@ -40,9 +40,11 @@ aplicará ningún descuento. Si el monto a pagar es entre $200 y $400 se aplicar
 descuento del 30% si el medio de pago es efectivo, 20% si se realiza con débito y
 10% con tarjeta de crédito. Para montos mayores a $400, el descuento es del 40%
 sin importar el medio de pago La función deberá retornar el monto final a pagar.
+
 17. Escriba una función la cual reciba como parámetro 2 números enteros y 1 cadena,
 La idea es que los números recibidos se puedan operar según la operación que
 hallamos recibido en la cadena, ejemplo miFuncion(2, 5, ”suma”).
+
 18. Escriba una función que tenga una cadena de ADN como parámetro y retorne un
 string con el número de bases en ella, por ejemplo, si la cadena es “AACAGT”
 entonces debe retornar “Cantidad de A: 3, Cantidad de C: 1, Cantidad de G: 1,
